@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # ========== BACA DATA ==========
-file_path = "D:\DATA\DASHBOARD\DASHBOARD_KEPRI\DATA_KEPRI.xlsx"
+file_path = "DATA_KEPRI.xlsx"
 df = pd.read_excel(file_path)
 
 # Membersihkan nama kolom
